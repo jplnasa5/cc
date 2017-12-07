@@ -21,8 +21,8 @@ h=28   #图片大小
 input_count=10   #分类数
 
 data_dir='/Users/sisyphus/.spyder-py3/Ciscotest/train_dataset'   #原始数据文件夹
-train_dir='/Users/sisyphus/.spyder-py3/Ciscotest/train_dateset_train'    #选取的训练数据
-test_dir='/Users/sisyphus/.spyder-py3/Ciscotest/train_dateset_test'     #选取的测试数据
+train_dir='/Users/sisyphus/.spyder-py3/Ciscotest/train_dataset_train'    #选取的训练数据
+test_dir='/Users/sisyphus/.spyder-py3/Ciscotest/train_dataset_test'     #选取的测试数据
 MODEL_SAVE_PATH='/Users/sisyphus/.spyder-py3/Ciscotest/model2'   #模型保存路径
 MODEL_NAME='model.ckpt'    #模型保存文件名
 
